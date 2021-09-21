@@ -1,0 +1,6 @@
+No se puede agregar el item debido a que el barco está bloqueado.
+No se puede agregar el item debido a se necesita un barco vacio.
+No se permite agregar dos item en una misma posicion.
+No se permite tener dos items de este tipo.
+Este item solo esta permitido a barcos mas grandes.
+Este item no esta permitido a este tipo de barco.

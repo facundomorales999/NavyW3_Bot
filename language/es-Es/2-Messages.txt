@@ -1,0 +1,4 @@
+Su id de cuarto es:
+El cuarto
+Dale la bienvenida a:
+Has sido agregado correctamente.

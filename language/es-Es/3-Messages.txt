@@ -1,0 +1,3 @@
+El juego ha comenzado.
+Debes ser el host para iniciar el juego.
+Deben ser al menos dos jugadores.

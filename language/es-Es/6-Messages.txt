@@ -1,0 +1,10 @@
+El barco
+La primera coordenada
+La segunda coordenada
+La forma de ataque
+ha atacado a
+Es el turno de:
+Ese barco no puede atacar de esa forma
+no esta jugando contigo.
+No es tu turno de atacar.
+no es un enemigo

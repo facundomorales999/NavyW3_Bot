@@ -1,0 +1,5 @@
+Su siguiente item es:
+El barco
+La posicion del barco
+Se ha agregado el item correctamente.
+Siguiente item es:

@@ -1,0 +1,3 @@
+Ese barco no puede lanzar una carga.
+Ese barco no puede lanzar un misil.
+Ese barco no puede lanzar dos missiles.
